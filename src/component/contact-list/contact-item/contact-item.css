@@ -1,0 +1,4 @@
+.btn:not(:disabled):not(.disabled){
+    margin-top: 10px;
+    margin-right: 2px;
+}
